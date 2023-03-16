@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sopefoluwa
-- 👀 I’m interested in applying datascience and Machine Learning for offshore energy operations 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on various datascience projects
+- 👀 I Love analyzing, cleaning and manipulating data 
+- I am skilled in using Excel, Sql Tableau to clean, process anlyze and visualize data  
+- 🌱 I’m currently learning R programming 
+- 💞️ I’m looking to collaborate on various data analysis projects
 - 📫 How to reach me adeleyesope76@gmail.com
 
 <!---
