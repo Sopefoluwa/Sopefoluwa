@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sopefoluwa
 - 👀 I Love analyzing, cleaning and manipulating data 
-- I am skilled in using Excel, Sql Tableau to clean, process anlyze and visualize data  
+- I am skilled in using Excel, Sql, Power BI, Python and R  to clean, process anlyze and visualize data  
 - 🌱 I’m currently learning R programming 
 - 💞️ I’m looking to collaborate on various data analysis projects
 - 📫 How to reach me adeleyesope76@gmail.com
